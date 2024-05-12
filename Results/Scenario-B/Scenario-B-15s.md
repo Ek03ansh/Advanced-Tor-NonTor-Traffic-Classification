@@ -95,7 +95,7 @@ X_train, X_test, y_train, y_test, class_labels, X_train_selected, X_test_selecte
 
 
     
-![png](Scenario-A-15s-Images/Scenario-A-15s-Images/output_14_1.png)
+![png](Scenario-A-15s-Images/output_14_1.png)
     
 
 
@@ -104,7 +104,8 @@ X_train, X_test, y_train, y_test, class_labels, X_train_selected, X_test_selecte
     No. of Reduced Features: 22
     
     All Features with Reduced Features:
-    [4mduration[0m|[4mtotal_fiat[0m|[4mtotal_biat[0m|[4mmin_fiat[0m|[4mmin_biat[0m|[4mmax_fiat[0m|[4mmax_biat[0m|[4mmean_fiat[0m|[4mmean_biat[0m|[4mflowPktsPerSecond[0m|[4mflowBytesPerSecond[0m|[4mmin_flowiat[0m|[4mmax_flowiat[0m|[4mmean_flowiat[0m|[4mstd_flowiat[0m|[4mmin_active[0m|[4mmean_active[0m|[4mmax_active[0m|[4mstd_active[0m|[4mmin_idle[0m|[4mmean_idle[0m|[4mmax_idle[0m|std_idle
+| **duration** | **total_fiat** | **total_biat** | **min_fiat** | **min_biat** | **max_fiat** | **max_biat** | **mean_fiat** | **mean_biat** | **flowPktsPerSecond** | **flowBytesPerSecond** | **min_flowiat** | **max_flowiat** | **mean_flowiat** | **std_flowiat** | **min_active** | **mean_active** | **max_active** | **std_active** | **min_idle** | **mean_idle** | **max_idle** | std_idle |
+
     
 
 

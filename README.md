@@ -1,5 +1,5 @@
 # Advanced-Tor-NonTor-Traffic-Classification
-This repository contains the detailed results for our research paper. The **Results.pdf** File contains the results.
+This repository contains the detailed results for our research paper *Advanced Techniques for Tor-NonTor Traffic Classification*. The **Results.pdf** File contains the results.
 
 ## SCENARIO-A Results Conclusion
 **Scenario-A**, focusing on classifying Tor and Non-Tor network flows across various timeout durations, employed meticulous preprocessing steps to curate datasets, addressing class imbalance via *outlier removal* and *oversampling*. Feature reduction enhanced model efficiency by retaining essential information while reducing dimensionality.

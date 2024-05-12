@@ -95,16 +95,13 @@ X_train, X_test, y_train, y_test, class_labels, X_train_selected, X_test_selecte
 
 
     
-![png](Scenario-A-15s-Images/output_14_1.png)
+![png](Scenario-B-15s-Images/output_14_1.png)
     
 
 
     
     No. of Total Features: 23
     No. of Reduced Features: 22
-    
-    All Features with Reduced Features:
-| **duration** | **total_fiat** | **total_biat** | **min_fiat** | **min_biat** | **max_fiat** | **max_biat** | **mean_fiat** | **mean_biat** | **flowPktsPerSecond** | **flowBytesPerSecond** | **min_flowiat** | **max_flowiat** | **mean_flowiat** | **std_flowiat** | **min_active** | **mean_active** | **max_active** | **std_active** | **min_idle** | **mean_idle** | **max_idle** | std_idle |
 
     
 
@@ -144,7 +141,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_1.png)
+![png](Scenario-B-15s-Images/output_15_1.png)
     
 
 
@@ -178,7 +175,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_3.png)
+![png](Scenario-B-15s-Images/output_15_3.png)
     
 
 
@@ -210,7 +207,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_5.png)
+![png](Scenario-B-15s-Images/output_15_5.png)
     
 
 
@@ -244,7 +241,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_7.png)
+![png](Scenario-B-15s-Images/output_15_7.png)
     
 
 
@@ -278,7 +275,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_9.png)
+![png](Scenario-B-15s-Images/output_15_9.png)
     
 
 
@@ -312,7 +309,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_11.png)
+![png](Scenario-B-15s-Images/output_15_11.png)
     
 
 
@@ -346,7 +343,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_13.png)
+![png](Scenario-B-15s-Images/output_15_13.png)
     
 
 
@@ -378,7 +375,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_15.png)
+![png](Scenario-B-15s-Images/output_15_15.png)
     
 
 
@@ -412,7 +409,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_17.png)
+![png](Scenario-B-15s-Images/output_15_17.png)
     
 
 
@@ -446,7 +443,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_19.png)
+![png](Scenario-B-15s-Images/output_15_19.png)
     
 
 
@@ -480,7 +477,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_21.png)
+![png](Scenario-B-15s-Images/output_15_21.png)
     
 
 
@@ -492,7 +489,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_23.png)
+![png](Scenario-B-15s-Images/output_15_23.png)
     
 
 
@@ -509,7 +506,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_25.png)
+![png](Scenario-B-15s-Images/output_15_25.png)
     
 
 
@@ -526,7 +523,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_27.png)
+![png](Scenario-B-15s-Images/output_15_27.png)
     
 
 
@@ -543,7 +540,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_29.png)
+![png](Scenario-B-15s-Images/output_15_29.png)
     
 
 
@@ -560,7 +557,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_31.png)
+![png](Scenario-B-15s-Images/output_15_31.png)
     
 
 
@@ -577,7 +574,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_33.png)
+![png](Scenario-B-15s-Images/output_15_33.png)
     
 
 
@@ -594,7 +591,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_35.png)
+![png](Scenario-B-15s-Images/output_15_35.png)
     
 
 
@@ -611,7 +608,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_37.png)
+![png](Scenario-B-15s-Images/output_15_37.png)
     
 
 
@@ -628,7 +625,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_39.png)
+![png](Scenario-B-15s-Images/output_15_39.png)
     
 
 
@@ -645,7 +642,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_41.png)
+![png](Scenario-B-15s-Images/output_15_41.png)
     
 
 
@@ -662,7 +659,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_43.png)
+![png](Scenario-B-15s-Images/output_15_43.png)
     
 
 
@@ -679,7 +676,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_45.png)
+![png](Scenario-B-15s-Images/output_15_45.png)
     
 
 
@@ -689,7 +686,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_47.png)
+![png](Scenario-B-15s-Images/output_15_47.png)
     
 
 
@@ -708,13 +705,13 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_49.png)
+![png](Scenario-B-15s-Images/output_15_49.png)
     
 
 
 
     
-![png](Scenario-A-15s-Images/output_15_50.png)
+![png](Scenario-B-15s-Images/output_15_50.png)
     
 
 
@@ -729,13 +726,13 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_52.png)
+![png](Scenario-B-15s-Images/output_15_52.png)
     
 
 
 
     
-![png](Scenario-A-15s-Images/output_15_53.png)
+![png](Scenario-B-15s-Images/output_15_53.png)
     
 
 
@@ -750,13 +747,13 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_55.png)
+![png](Scenario-B-15s-Images/output_15_55.png)
     
 
 
 
     
-![png](Scenario-A-15s-Images/output_15_56.png)
+![png](Scenario-B-15s-Images/output_15_56.png)
     
 
 
@@ -771,13 +768,13 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_58.png)
+![png](Scenario-B-15s-Images/output_15_58.png)
     
 
 
 
     
-![png](Scenario-A-15s-Images/output_15_59.png)
+![png](Scenario-B-15s-Images/output_15_59.png)
     
 
 
@@ -792,13 +789,13 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_61.png)
+![png](Scenario-B-15s-Images/output_15_61.png)
     
 
 
 
     
-![png](Scenario-A-15s-Images/output_15_62.png)
+![png](Scenario-B-15s-Images/output_15_62.png)
     
 
 
@@ -813,13 +810,13 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_64.png)
+![png](Scenario-B-15s-Images/output_15_64.png)
     
 
 
 
     
-![png](Scenario-A-15s-Images/output_15_65.png)
+![png](Scenario-B-15s-Images/output_15_65.png)
     
 
 
@@ -834,13 +831,13 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_67.png)
+![png](Scenario-B-15s-Images/output_15_67.png)
     
 
 
 
     
-![png](Scenario-A-15s-Images/output_15_68.png)
+![png](Scenario-B-15s-Images/output_15_68.png)
     
 
 
@@ -855,13 +852,13 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_70.png)
+![png](Scenario-B-15s-Images/output_15_70.png)
     
 
 
 
     
-![png](Scenario-A-15s-Images/output_15_71.png)
+![png](Scenario-B-15s-Images/output_15_71.png)
     
 
 
@@ -876,13 +873,13 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_73.png)
+![png](Scenario-B-15s-Images/output_15_73.png)
     
 
 
 
     
-![png](Scenario-A-15s-Images/output_15_74.png)
+![png](Scenario-B-15s-Images/output_15_74.png)
     
 
 
@@ -897,13 +894,13 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_76.png)
+![png](Scenario-B-15s-Images/output_15_76.png)
     
 
 
 
     
-![png](Scenario-A-15s-Images/output_15_77.png)
+![png](Scenario-B-15s-Images/output_15_77.png)
     
 
 
@@ -918,13 +915,13 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_15_79.png)
+![png](Scenario-B-15s-Images/output_15_79.png)
     
 
 
 
     
-![png](Scenario-A-15s-Images/output_15_80.png)
+![png](Scenario-B-15s-Images/output_15_80.png)
     
 
 
@@ -1120,7 +1117,7 @@ secC(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_16_1.png)
+![png](Scenario-B-15s-Images/output_16_1.png)
     
 
 
@@ -1132,7 +1129,7 @@ secC(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_16_3.png)
+![png](Scenario-B-15s-Images/output_16_3.png)
     
 
 
@@ -1154,7 +1151,7 @@ secC(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_16_5.png)
+![png](Scenario-B-15s-Images/output_16_5.png)
     
 
 
@@ -1172,13 +1169,13 @@ secC(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-A-15s-Images/output_16_7.png)
+![png](Scenario-B-15s-Images/output_16_7.png)
     
 
 
 
     
-![png](Scenario-A-15s-Images/output_16_8.png)
+![png](Scenario-B-15s-Images/output_16_8.png)
     
 
 

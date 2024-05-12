@@ -95,7 +95,7 @@ X_train, X_test, y_train, y_test, class_labels, X_train_selected, X_test_selecte
 
 
     
-![png](Scenario-B-5s-Images/output_18_1.png)
+![png](Scenario-B-05s-Images/output_18_1.png)
     
 
 
@@ -140,7 +140,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_1.png)
+![png](Scenario-B-05s-Images/output_19_1.png)
     
 
 
@@ -174,7 +174,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_3.png)
+![png](Scenario-B-05s-Images/output_19_3.png)
     
 
 
@@ -206,7 +206,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_5.png)
+![png](Scenario-B-05s-Images/output_19_5.png)
     
 
 
@@ -240,7 +240,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_7.png)
+![png](Scenario-B-05s-Images/output_19_7.png)
     
 
 
@@ -274,7 +274,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_9.png)
+![png](Scenario-B-05s-Images/output_19_9.png)
     
 
 
@@ -308,7 +308,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_11.png)
+![png](Scenario-B-05s-Images/output_19_11.png)
     
 
 
@@ -342,7 +342,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_13.png)
+![png](Scenario-B-05s-Images/output_19_13.png)
     
 
 
@@ -374,7 +374,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_15.png)
+![png](Scenario-B-05s-Images/output_19_15.png)
     
 
 
@@ -408,7 +408,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_17.png)
+![png](Scenario-B-05s-Images/output_19_17.png)
     
 
 
@@ -442,7 +442,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_19.png)
+![png](Scenario-B-05s-Images/output_19_19.png)
     
 
 
@@ -476,7 +476,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_21.png)
+![png](Scenario-B-05s-Images/output_19_21.png)
     
 
 
@@ -488,7 +488,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_23.png)
+![png](Scenario-B-05s-Images/output_19_23.png)
     
 
 
@@ -505,7 +505,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_25.png)
+![png](Scenario-B-05s-Images/output_19_25.png)
     
 
 
@@ -522,7 +522,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_27.png)
+![png](Scenario-B-05s-Images/output_19_27.png)
     
 
 
@@ -539,7 +539,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_29.png)
+![png](Scenario-B-05s-Images/output_19_29.png)
     
 
 
@@ -556,7 +556,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_31.png)
+![png](Scenario-B-05s-Images/output_19_31.png)
     
 
 
@@ -573,7 +573,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_33.png)
+![png](Scenario-B-05s-Images/output_19_33.png)
     
 
 
@@ -590,7 +590,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_35.png)
+![png](Scenario-B-05s-Images/output_19_35.png)
     
 
 
@@ -607,7 +607,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_37.png)
+![png](Scenario-B-05s-Images/output_19_37.png)
     
 
 
@@ -624,7 +624,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_39.png)
+![png](Scenario-B-05s-Images/output_19_39.png)
     
 
 
@@ -641,7 +641,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_41.png)
+![png](Scenario-B-05s-Images/output_19_41.png)
     
 
 
@@ -658,7 +658,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_43.png)
+![png](Scenario-B-05s-Images/output_19_43.png)
     
 
 
@@ -675,7 +675,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_45.png)
+![png](Scenario-B-05s-Images/output_19_45.png)
     
 
 
@@ -685,7 +685,7 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_47.png)
+![png](Scenario-B-05s-Images/output_19_47.png)
     
 
 
@@ -704,13 +704,13 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_49.png)
+![png](Scenario-B-05s-Images/output_19_49.png)
     
 
 
 
     
-![png](Scenario-B-5s-Images/output_19_50.png)
+![png](Scenario-B-05s-Images/output_19_50.png)
     
 
 
@@ -725,13 +725,13 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_52.png)
+![png](Scenario-B-05s-Images/output_19_52.png)
     
 
 
 
     
-![png](Scenario-B-5s-Images/output_19_53.png)
+![png](Scenario-B-05s-Images/output_19_53.png)
     
 
 
@@ -746,13 +746,13 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_55.png)
+![png](Scenario-B-05s-Images/output_19_55.png)
     
 
 
 
     
-![png](Scenario-B-5s-Images/output_19_56.png)
+![png](Scenario-B-05s-Images/output_19_56.png)
     
 
 
@@ -767,13 +767,13 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_58.png)
+![png](Scenario-B-05s-Images/output_19_58.png)
     
 
 
 
     
-![png](Scenario-B-5s-Images/output_19_59.png)
+![png](Scenario-B-05s-Images/output_19_59.png)
     
 
 
@@ -788,13 +788,13 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_61.png)
+![png](Scenario-B-05s-Images/output_19_61.png)
     
 
 
 
     
-![png](Scenario-B-5s-Images/output_19_62.png)
+![png](Scenario-B-05s-Images/output_19_62.png)
     
 
 
@@ -809,13 +809,13 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_64.png)
+![png](Scenario-B-05s-Images/output_19_64.png)
     
 
 
 
     
-![png](Scenario-B-5s-Images/output_19_65.png)
+![png](Scenario-B-05s-Images/output_19_65.png)
     
 
 
@@ -830,13 +830,13 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_67.png)
+![png](Scenario-B-05s-Images/output_19_67.png)
     
 
 
 
     
-![png](Scenario-B-5s-Images/output_19_68.png)
+![png](Scenario-B-05s-Images/output_19_68.png)
     
 
 
@@ -851,13 +851,13 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_70.png)
+![png](Scenario-B-05s-Images/output_19_70.png)
     
 
 
 
     
-![png](Scenario-B-5s-Images/output_19_71.png)
+![png](Scenario-B-05s-Images/output_19_71.png)
     
 
 
@@ -872,13 +872,13 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_73.png)
+![png](Scenario-B-05s-Images/output_19_73.png)
     
 
 
 
     
-![png](Scenario-B-5s-Images/output_19_74.png)
+![png](Scenario-B-05s-Images/output_19_74.png)
     
 
 
@@ -893,13 +893,13 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_76.png)
+![png](Scenario-B-05s-Images/output_19_76.png)
     
 
 
 
     
-![png](Scenario-B-5s-Images/output_19_77.png)
+![png](Scenario-B-05s-Images/output_19_77.png)
     
 
 
@@ -914,13 +914,13 @@ secB(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_19_79.png)
+![png](Scenario-B-05s-Images/output_19_79.png)
     
 
 
 
     
-![png](Scenario-B-5s-Images/output_19_80.png)
+![png](Scenario-B-05s-Images/output_19_80.png)
     
 
 
@@ -1116,7 +1116,7 @@ secC(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_20_1.png)
+![png](Scenario-B-05s-Images/output_20_1.png)
     
 
 
@@ -1128,7 +1128,7 @@ secC(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_20_3.png)
+![png](Scenario-B-05s-Images/output_20_3.png)
     
 
 
@@ -1150,7 +1150,7 @@ secC(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_20_5.png)
+![png](Scenario-B-05s-Images/output_20_5.png)
     
 
 
@@ -1168,13 +1168,13 @@ secC(X_train, y_train, y_test, class_labels, X_train_selected, X_test_selected, 
 
 
     
-![png](Scenario-B-5s-Images/output_20_7.png)
+![png](Scenario-B-05s-Images/output_20_7.png)
     
 
 
 
     
-![png](Scenario-B-5s-Images/output_20_8.png)
+![png](Scenario-B-05s-Images/output_20_8.png)
     
 
 

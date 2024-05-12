@@ -1,5 +1,17 @@
 # Advanced-Tor-NonTor-Traffic-Classification
-This repository contains the detailed results for our research paper *Advanced Techniques for Tor-NonTor Traffic Classification*. The **Results.pdf** File contains the results.
+This repository contains the detailed results for our research paper *Advanced Techniques for Tor-NonTor Traffic Classification*. The **Results** Folder contains the results.
+
+The Results Folder consists of two main subfolders: **Scenario-A** and **Scenario-B**. Each subfolder contains files corresponding to different flow-timeout settings.
+
+| Flow Timeout | Scenario-A File                            | Scenario-B File                            |
+|--------------|--------------------------------------------|--------------------------------------------|
+| 5 seconds   | [Scenario-A-05s](Results/Scenario-A/Scenario-A-05s.md)| [Scenario-B-05s](Results/Scenario-B/Scenario-B-05s)|
+| 10 seconds   | [Scenario-A-10s](Results/Scenario-A/Scenario-A-10s.md)| [Scenario-B-10s](Results/Scenario-B/Scenario-B-10s)|
+| 15 seconds   | [Scenario-A-15s](Results/Scenario-A/Scenario-A-15s.md)| [Scenario-B-15s](Results/Scenario-B/Scenario-B-15s)|
+| 30 seconds   | [Scenario-A-30s](Results/Scenario-A/Scenario-A-30s.md)| [Scenario-B-30s](Results/Scenario-B/Scenario-B-30s)|
+| 60 seconds   | [Scenario-A-60s](Results/Scenario-A/Scenario-A-60s.md)| [Scenario-B-60s](Results/Scenario-B/Scenario-B-60s)|
+| 120 seconds  | [Scenario-A-120s](Results/Scenario-A/Scenario-A-120s.md)| [Scenario-B-120s](Results/Scenario-B/Scenario-B-120s)|
+
 
 ## SCENARIO-A Results Conclusion
 **Scenario-A**, focusing on classifying Tor and Non-Tor network flows across various timeout durations, employed meticulous preprocessing steps to curate datasets, addressing class imbalance via *outlier removal* and *oversampling*. Feature reduction enhanced model efficiency by retaining essential information while reducing dimensionality.

@@ -103,9 +103,6 @@ X_train, X_test, y_train, y_test, class_labels, X_train_selected, X_test_selecte
     No. of Total Features: 23
     No. of Reduced Features: 15
     
-    All Features with Reduced Features:
-    [4mFlow Duration[0m|[4mFlow Bytes/s[0m|[4mFlow Packets/s[0m|[4mFlow IAT Mean[0m|[4mFlow IAT Std[0m|[4mFlow IAT Max[0m|[4mFlow IAT Min[0m|[4mFwd IAT Mean[0m|[4mFwd IAT Std[0m|[4mFwd IAT Max[0m|[4mFwd IAT Min[0m|[4mBwd IAT Mean[0m|[4mBwd IAT Std[0m|[4mBwd IAT Max[0m|[4mBwd IAT Min[0m|Active Mean|Active Std|Active Max|Active Min|Idle Mean|Idle Std|Idle Max|Idle Min
-    
 
 
 ```python

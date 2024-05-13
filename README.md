@@ -1,5 +1,5 @@
 # Advanced-Tor-NonTor-Traffic-Classification
-This repository contains the detailed results for our research paper *Advanced Techniques for Tor-NonTor Traffic Classification*. The **Results** Folder contains the results.
+This repository contains the detailed results for our research paper *Enhancing Tor-NonTor Traffic Classification Across Diverse Classifiers*. The **Results** Folder contains the results.
 
 The Results Folder consists of two main subfolders: **Scenario-A** and **Scenario-B**. Each subfolder contains files corresponding to different flow-timeout settings.
 
